@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nariichi</h1>
+<h1 align="center">Hi 👋, I'm Nariichi Ishimine</h1>
 <h3 align="center">Network switch firmware developer from Taiwan</h3>
 
 - 🌱 I’m currently learning **frontend develop**
