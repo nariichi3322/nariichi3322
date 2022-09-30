@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nariichi Ishimine</h1>
-<h3 align="center">Network switch firmware developer from Taiwan</h3>
+<h3 align="center">Firmware developer for Pro AV and multimedia products from Taiwan</h3>
 
 - 🌱 I’m currently learning **frontend develop**
 
